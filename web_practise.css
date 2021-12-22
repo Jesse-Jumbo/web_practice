@@ -1,0 +1,11 @@
+body {background: gainsboro;}
+li {list-style-type: disc;}
+li li {list-style-type: circle;}
+.odd {background: linen;}
+.even {background: pink;}
+#row3 {background: azure;}
+#row4 {background: cyan;}
+li::first-line {color: royalblue;}
+table::before {content: "<3";}
+table::after {content: "(宮崎駿)"; color:slateblue}
+tr:hover {background: rebeccapurple;}
